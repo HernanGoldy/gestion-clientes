@@ -1,7 +1,5 @@
 # Gestión Clientes
 
----
-
 Proyecto CRUD de prueba donde se implementan el patrón DAO (para la comunicación entre el servidor y la base de datos) 
 y el patrón DTO (para la transferencia de datos entre las diferentes capas de la aplicación).
 
